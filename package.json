@@ -1,0 +1,20 @@
+{
+	"name": "jonmmet",
+	"version": "0.0.1",
+	"description": "Simple framework CSS",
+	"style": "jonmmet.min.css",
+	"files": [
+		"LICENCE.md",
+		"README.md",
+		"jonmmet.min.css",
+		"jonmmet.css"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jdpoccorie/jonmmet.git"
+	},
+	"main": "jonmmet.min.css",
+	"author": "@jdpoccorie <juandiego.poccori@gmail.com>",
+	"license": "MIT",
+	"homepage": "https://github.com/jdpoccorie/jonmmet#readme"
+}
